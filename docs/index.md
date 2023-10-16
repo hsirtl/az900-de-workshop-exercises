@@ -2,7 +2,7 @@
 
 |---             |---            |
 | **Lernpfad 1** | **Cloudkonzepte** |
-|                | (Cloud Computing)[challenge-01-01.md] |
+|                | [Cloud Computing](challenge-01-01.md) |
 |                | Vorteile der Cloud |
 |                | Clouddiensttypen |
 | **Lernpfad 2** | **Azure-Architektur und -Dienste** |
