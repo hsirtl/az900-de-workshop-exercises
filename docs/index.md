@@ -1,5 +1,8 @@
 # AZ 900 Workshop
 
+|---             |---            |
+| **Lernpfad 1** | Cloudkonzepte |
+
 ## Lernpfad 1: Cloudkonzepte
 
 ### Cloud Computing
