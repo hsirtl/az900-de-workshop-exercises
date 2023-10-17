@@ -8,6 +8,7 @@
 - [Ressourcentags](https://learn.microsoft.com/training/modules/describe-cost-management-azure/7-describe-purpose-of-tags)
 
 Tools:
+
 - [Azure-Preisrechner](https://azure.microsoft.com/pricing/calculator/)
 - [Azure-Gesamtkostenrechner](https://azure.microsoft.com/pricing/tco/calculator/)
 
