@@ -1,5 +1,10 @@
 # AZ 900 Workshop
 
+Dieser Workshop enthält Lernmaterial und Übungen zur Azure AZ 900 Zertifizierung.
+Informationen zu dieser Zertifizierung sind unter folgendem Link zugreifbar:
+
+[Examen AZ-900: Microsoft Azure-Grundlagen](https://learn.microsoft.com/de-de/credentials/certifications/exams/az-900/)
+
 ## Lerninhalt
 
 |---             |---            |---|
