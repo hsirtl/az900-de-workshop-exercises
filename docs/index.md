@@ -5,6 +5,12 @@ Informationen zu dieser Zertifizierung sind unter folgendem Link zugreifbar:
 
 [Examen AZ-900: Microsoft Azure-Grundlagen](https://learn.microsoft.com/de-de/credentials/certifications/exams/az-900/)
 
+Weitere Links:
+
+- [Studienleitfaden](https://learn.microsoft.com/de-de/credentials/certifications/resources/study-guides/az-900)
+- [Demo der Examensumgebung](https://www.starttest.com/ITDVersions/22.0.0.0/ITDStart.aspx?SVC=6d2a3227-3a97-48f4-bd65-1be9852be127)
+
+
 ## Lerninhalt
 
 |---             |---            |---|
